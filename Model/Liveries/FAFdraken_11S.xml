@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">FAF 11 Sqdn.</name>
+        <texture>Liveries/FAFdraken_11S.jpg</texture>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

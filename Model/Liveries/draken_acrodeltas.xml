@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">SAF "ACRO Deltas"</name>
+        <texture>Liveries/draken_acrodeltas.jpg</texture>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>
